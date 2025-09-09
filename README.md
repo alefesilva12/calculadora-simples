@@ -1,6 +1,6 @@
 # Calculadora Simples
 
-Uma calculadora web responsiva feita com **HTML5, CSS3 e JavaScript puro**, sem uso de frameworks ou bibliotecas externas.  
+Uma calculadora web responsiva feita com **HTML5, CSS3 e JavaScript**, sem uso de frameworks ou bibliotecas externas.  
 O projeto foi desenvolvido para praticar conceitos básicos de **front-end** e lógica de programação.
 
 ---
